@@ -1,4 +1,7 @@
 import socket
+"""
+To test Python socket programming
+"""
 s = socket.socket()
 host = socket.gethostname()
 port = 1234
